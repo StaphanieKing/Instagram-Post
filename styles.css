@@ -1,0 +1,82 @@
+body {
+    background-color:black;
+    margin: 0;
+}
+
+header {
+    background-color: aqua;
+    padding: 50px;
+    margin: 0;
+    text-align: center;
+}
+
+.post {
+    background-color: white;
+    border: 20px;
+    
+    
+}
+
+header h1 {
+    margin: auto;
+
+}
+
+.container {
+    margin: auto;
+    width: 500px;
+    background-color:white;
+}
+
+img {
+    width: 100%;
+    
+    
+}
+
+fafa-ellipsis-v {
+    float: right;
+    
+}
+
+}
+
+span{
+    padding: 20px;
+    
+}
+p {
+    padding: 10px;
+}
+
+.icons {
+ 
+    color: black;
+    font-size: 30px;
+    padding: 10px;
+}
+.iconh {
+    font-size: 60px;
+    padding: 10px;
+    display: flex;
+    float:bottom left;
+    margin: auto;
+    
+}
+.post2 {
+    
+    display:inline-flex;
+    padding: 5px;
+    border: 10px;
+    
+
+    
+}
+.name {
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+.bookmark{
+    float:right;
+    
+}
